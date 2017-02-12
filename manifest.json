@@ -1,0 +1,14 @@
+{
+  "name": "calc_battlescore",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "戦闘力を計算したさがある",
+  "content_scripts": [
+    {
+      "matches": ["https://kyomu2.gakumu.titech.ac.jp/Titech/Student/%E6%88%90%E7%B8%BE%E9%96%B2%E8%A6%A7/PID2_0.aspx"],
+      "js": ["jquery-2.1.4.min.js", "battlescore.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
+
