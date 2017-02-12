@@ -9,7 +9,7 @@ It calculates titech fighting power
 です。間違ってたら @ymduu まで。  
 # つかいかた
 ## 使いたいヒト
-calc_battlescore.crxをChromeにD&Dしてインストールしてください。  
+calc_battlescore.crxをChromeの拡張機能画面にD&Dしてインストールしてください。  
 この拡張機能をオンにして教務webの成績閲覧ページに行くと修得科目平均点の下に戦闘力とかいう項目が追加されているハズです。  
 ## コードを読みたいヒト  
 なんだか悪いコトが起きていないか不安ならコード読んでください。  
